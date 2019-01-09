@@ -1,9 +1,0 @@
-package com.internousdev.template.dto;
-
-public class MyPageDTO {
-
-	private String itemName;
-	private String totalPrice;
-	private String totalCount;
-	private String payment;
-}
