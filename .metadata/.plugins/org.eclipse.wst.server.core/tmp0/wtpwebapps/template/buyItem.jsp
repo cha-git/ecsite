@@ -32,7 +32,7 @@
 	/* ========ID LAYOUT======== */
 	#top {
 		width:780px;
-		margin:30px,auto;
+		margin:30px auto;
 		border:1px solid #333;
 	}
 
@@ -58,7 +58,7 @@
 </head>
 <body>
 	<div id="header">
-		<div id="top">
+		<div id="pr">
 		</div>
 	</div>
 	<div id="main">
