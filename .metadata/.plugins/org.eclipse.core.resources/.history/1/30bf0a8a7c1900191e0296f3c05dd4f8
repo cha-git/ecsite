@@ -1,0 +1,16 @@
+package com.internousdev.ecsite.dto;
+
+public class BuyItemDTO {
+
+	private int id;
+	private String item_name;
+	private String item_price;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+}
