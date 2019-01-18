@@ -76,8 +76,8 @@ table {
 						<td>
 							<s:property value="loginUserId" escape="false" />
 						</td>
-					</tr id="box">
-					<tr>
+					</tr>
+					<tr id="box">
 						<td>
 							<label>ログインPASS:</label>
 						</td>
