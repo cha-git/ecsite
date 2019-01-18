@@ -10,7 +10,6 @@
 <meta name="description" content="" />
 <meta name="keywords" content="" />
 <title>BuyItem画面</title>
-
 <style type="text/css">
 /* ========TAG LAYOUT======== */
 body {
@@ -28,6 +27,7 @@ table {
 	text-align:center;
 	margin:0 auto;
 }
+
 /* ========ID LAYOUT======== */
 #top {
 	width:780px;

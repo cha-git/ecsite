@@ -12,4 +12,5 @@
 <fullyQualifiedTypeName name="com.internousdev.template.util.DBConnector"/>
 <fullyQualifiedTypeName name="com.internousdev.template.dao.MyPageDAO"/>
 <fullyQualifiedTypeName name="com.internousdev.template.dto.MyPageDTO"/>
+<fullyQualifiedTypeName name="com.internousdev.ecsite.util.DateUtil"/>
 </qualifiedTypeNameHistroy>
