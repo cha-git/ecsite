@@ -70,6 +70,9 @@ table {
 		<div id="top">
 			<p>Home</p>
 		</div>
+		<s:if test="logoutMessage != null">
+			<h3><s:property value="logoutMessage" /></h3>
+		</s:if>
 		<div id="text-center">
 			<s:form action="HomeAction">
 				<s:submit value="商品購入" />
