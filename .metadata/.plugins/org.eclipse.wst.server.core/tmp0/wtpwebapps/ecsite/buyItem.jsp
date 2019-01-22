@@ -47,12 +47,6 @@ table {
 	text-align:center;
 }
 
-#u_name {
-	text-align:left;
-	margin:0;
-	border-bottom:1.5px solid #333;
-}
-
 #footer {
 	width:100%;
 	height:80px;
@@ -69,9 +63,6 @@ table {
 	<div id="main">
 		<div id="top">
 			<p>BuyItem</p>
-		</div>
-		<div id="u_name">
-			<!--修正！！！ <p><s:property value="#session.loginUser.get(0).userName" />さん</p> -->
 		</div>
 		<div>
 			<s:form action="BuyItemAction">
