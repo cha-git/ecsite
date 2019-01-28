@@ -1,9 +1,0 @@
-package com.internousdev.ecsite.action;
-
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
-
-public class BuyItemDAO {
-
-}
