@@ -1,9 +1,0 @@
-package com.internousdev.ecsite.action;
-
-public class AdminAction {
-
-	public void execute() {
-
-		return SUCCESS;
-	}
-}
